@@ -1,2 +1,2 @@
-# simple-c-math
-nothing good here #1
+# Math Formula
+i'll share how work a math formula in every programming language
